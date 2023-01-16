@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(51, 50, 49);
+    Font-size : 14px   
+}
+
+#principal{
+    background-color: antiquewhite;
+    width: 250px;
+    height: 490px;
+    margin: 0px auto;   
+    padding: 10px 0px;
+}
+
+#caixa{
+    background-color: white;
+    width: 230px;
+    margin: 0px auto; 
+    padding-bottom: 10px;
+   
+}
+
+img{
+    margin: 0px auto; 
+    border-radius: 4px;
+}
+
+h2{
+    font-size: 18px;
+}
+
+h4{
+    font-size: 12px;
+    color: rgb(156, 154, 154);
+}
+
+P{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(156, 154, 154);
+}
+
+button{
+    background-color: green;
+    border-radius: 4px;
+    width: 230px;
+    
+}
+
+i {
+    color: white;
+}
+.botao{
+    color: white;
+   
+}
+
+.valor h3{
+    color: green;
+}
+
+a{
+    text-decoration: none;
+}
+
+del{
+    color: rgb(156, 154, 154);
+    font-size: 8px; 
+    
+}
+
